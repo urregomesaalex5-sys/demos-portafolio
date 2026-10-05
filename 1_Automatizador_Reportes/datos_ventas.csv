@@ -1,0 +1,112 @@
+fecha,cliente,producto,cantidad,precio_unitario,ciudad
+2024-01-15,  Juan Pérez ,Laptop Dell,2,"$1,200,000.00", bogotá
+2024/01/20,María García,Mouse Logitech,5,$45.000,Medellín
+15-02-2024,  Carlos López ,Teclado Mecánico,3,"$280,000", Bogotá
+2024-03-10,Ana Martínez,Monitor LG,1,"$850,000", Cali
+2024-03-15, Luis Rodríguez ,Laptop Dell,1,"$1,200,000",medellin
+05/04/2024,Pedro Sánchez,Mouse Logitech,2,$45.000, BOGOTÁ
+2024-04-12, Laura Torres ,Teclado Mecánico,4,"$280,000",cali
+2024-05-08,Diego Ramírez,Monitor LG,2,"$850,000", Barranquilla
+2024-05-20,  Sofía Herrera ,Laptop HP,1,"$1,450,000",Bogotá
+10-06-2024,Andrea Castro,Mouse Logitech,6,$45.000,Medellín
+2024-06-18,  Roberto Díaz ,Teclado Mecánico,2,"$280,000",Cali
+2024-07-05,Carmen Ruiz,Monitor Samsung,1,"$920,000",Barranquilla
+2024-07-22,  Miguel Ángel ,Laptop HP,2,"$1,450,000",bogotá
+08/08/2024,Patricia Vega,Mouse Logitech,3,$45.000,Medellín
+2024-08-14,  Francisco Morales ,Teclado Mecánico,5,"$280,000",Cali
+2024-09-01,Daniel Ortiz,Monitor Samsung,2,"$920,000",Barranquilla
+2024-09-19,  Elena Vargas ,Laptop Dell,1,"$1,200,000",Bogotá
+12/10/2024,Alejandro Jiménez,Mouse Logitech,4,$45.000,medellín
+2024-10-25,  Natalia Moreno ,Teclado Mecánico,3,"$280,000",Cali
+2024-11-03,Sebastián Aguilar,Monitor LG,1,"$850,000",Barranquilla
+2024-11-17,  Valentina Rojas ,Laptop HP,2,"$1,450,000",Bogotá
+14-12-2024,Matías Silva,Mouse Logitech,5,$45.000,Medellín
+2024-01-15,  Juan Pérez ,Laptop Dell,2,"$1,200,000.00", bogotá
+2024/02/20,María García,Mouse Logitech,5,$45.000,Medellín
+2024-03-10,Ana Martínez,Monitor LG,1,"$850,000", Cali
+2024-05-20,  Sofía Herrera ,Laptop HP,1,"$1,450,000",Bogotá
+2024-01-15,  Juan Pérez ,Laptop Dell,2,"$1,200,000.00", bogotá
+2024-01-28,Fernando Castillo,Teclado Mecánico,1,"$280,000",Bogotá
+2024-02-05,Isabella Mendoza,Monitor Samsung,2,"$920,000",Medellín
+2024-02-18,  Gabriel Herrera ,Laptop Dell,1,"$1,200,000",Cali
+2024-03-22,Luciana Flores,Mouse Logitech,3,$45.000,Barranquilla
+2024-03-29,  Emilio Cruz ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-04-05,Victoria Reyes,Monitor LG,1,"$850,000",Medellín
+2024-04-18,  Tomás Medina ,Laptop HP,2,"$1,450,000",Cali
+2024-05-02,Ximena Guerrero,Mouse Logitech,6,$45.000,Barranquilla
+2024-05-25,  Bruno Ramos ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-06-08,Camila Soto,Monitor Samsung,1,"$920,000",Medellín
+2024-06-21,  Maximiliano Fuentes ,Laptop Dell,3,"$1,200,000",Cali
+2024-07-12,Mariana Bravo,Mouse Logitech,4,$45.000,Barranquilla
+2024-07-30,  Santiago Reyes ,Teclado Mecánico,5,"$280,000",Bogotá
+2024-08-08,Renata Paredes,Monitor LG,2,"$850,000",Medellín
+2024-08-19,  Leonardo Vargas ,Laptop HP,1,"$1,450,000",Cali
+2024-09-05,Paula Campos,Mouse Logitech,2,$45.000,Barranquilla
+2024-09-14,  Joaquín Miranda ,Teclado Mecánico,3,"$280,000",Bogotá
+2024-10-01,Antonella Figueroa,Monitor Samsung,1,"$920,000",Medellín
+2024-10-11,  Samuel León ,Laptop Dell,2,"$1,200,000",Cali
+2024-10-28,Emma Arias,Mouse Logitech,5,$45.000,Barranquilla
+2024-11-09,  Benjamín Núñez ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-11-23,Martina Salazar,Monitor LG,2,"$850,000",Medellín
+2024-12-05,  Lucas Peña ,Laptop HP,1,"$1,450,000",Cali
+2024-12-18,Romina Aguirre,Mouse Logitech,3,$45.000,Barranquilla
+2024-01-08,  Dante Ibáñez ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-02-14,Brisa Molina,Monitor Samsung,1,"$920,000",Medellín
+2024-03-02,  Thiago Ponce ,Laptop Dell,2,"$1,200,000",Cali
+2024-04-20,Alma Escobar,Mouse Logitech,4,$45.000,Barranquilla
+2024-05-14,  Iker Delgado ,Teclado Mecánico,3,"$280,000",Bogotá
+2024-06-29,Florencia Cordero,Monitor LG,1,"$850,000",Medellín
+2024-07-16,  Hugo Quintana ,Laptop HP,2,"$1,450,000",Cali
+2024-08-03,Morena Villegas,Mouse Logitech,5,$45.000,Barranquilla
+2024-09-09,  Elías Sandoval ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-10-06,Julieta Calderón,Monitor Samsung,1,"$920,000",Medellín
+2024-11-12,  Bautista Orozco ,Laptop Dell,3,"$1,200,000",Cali
+2024-12-22,Candela Rosales,Mouse Logitech,4,$45.000,Barranquilla
+2024-01-03,  Amaro Gallego ,Teclado Mecánico,5,"$280,000",Bogotá
+2024-02-09,Belén Serrano,Monitor LG,2,"$850,000",Medellín
+2024-03-17,  Ciro Valenzuela ,Laptop HP,1,"$1,450,000",Cali
+2024-04-08,Delfina Palacios,Mouse Logitech,6,$45.000,Barranquilla
+2024-05-21,  Ezequiel Bustamante ,Teclado Mecánico,3,"$280,000",Bogotá
+2024-06-14,Guadalupe Navarro,Monitor Samsung,2,"$920,000",Medellín
+2024-07-07,  Lautaro Peralta ,Laptop Dell,1,"$1,200,000",Cali
+2024-08-24,Milagros Acosta,Mouse Logitech,2,$45.000,Barranquilla
+2024-09-30,  Tristán Carrizo ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-10-17,Esperanza Loyola,Monitor LG,1,"$850,000",Medellín
+2024-11-06,  Uriel Maldonado ,Laptop HP,2,"$1,450,000",Cali
+2024-12-01,Paloma Beltrán,Mouse Logitech,5,$45.000,Barranquilla
+2024-02-01,  Nehuén Pacheco ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-03-25,Yamila Godoy,Monitor Samsung,1,"$920,000",Medellín
+2024-04-16,  Ian Jaramillo ,Laptop Dell,2,"$1,200,000",Cali
+2024-05-30,Azul Benítez,Mouse Logitech,3,$45.000,Barranquilla
+2024-06-11,  Kevin Arce ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-07-24,Maite Quinteros,Monitor LG,2,"$850,000",Medellín
+2024-08-07,  Brian Lozano ,Laptop HP,1,"$1,450,000",Cali
+2024-09-21,Noelia Vera,Mouse Logitech,5,$45.000,Barranquilla
+2024-10-13,  Mauro Cáceres ,Teclado Mecánico,3,"$280,000",Bogotá
+2024-11-02,Araceli Mansilla,Monitor Samsung,1,"$920,000",Medellín
+2024-12-09,  Joel Paredes ,Laptop Dell,2,"$1,200,000",Cali
+2024-01-19,Zoe Barrios,Mouse Logitech,4,$45.000,Barranquilla
+2024-02-27,  Axel Coronel ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-03-08,Triana Sosa,Monitor LG,1,"$850,000",Medellín
+2024-04-25,  Dylan Quispe ,Laptop HP,2,"$1,450,000",Cali
+2024-05-19,Helena Guzmán,Mouse Logitech,3,$45.000,Barranquilla
+2024-06-23,  Adrián Espinoza ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-07-01,Leire Poblete,Monitor Samsung,2,"$920,000",Medellín
+2024-08-15,  Óscar Tapia ,Laptop Dell,1,"$1,200,000",Cali
+2024-09-07,Naia Valdivia,Mouse Logitech,5,$45.000,Barranquilla
+2024-10-26,  Rubén Arriagada ,Teclado Mecánico,2,"$280,000",Bogotá
+2024-11-14,Iris Cárcamo,Monitor LG,1,"$850,000",Medellín
+2024-12-14,  Mario Toledo ,Laptop HP,2,"$1,450,000",Cali
+2024-04-02,Claudia Rojas,Mouse Logitech,4,$45.000,Barranquilla
+2024-05-07,  Andrés Mejía ,Teclado Mecánico,3,"$280,000",Bogotá
+2024-06-01,Silvana Orellana,Monitor Samsung,1,"$920,000",Medellín
+2024-07-19,  Guillermo Fuentes ,Laptop Dell,2,"$1,200,000",Cali
+2024-08-28,Marisol Bravo,Mouse Logitech,5,$45.000,Barranquilla
+2024-09-12,  Ernesto Gallardo ,Teclado Mecánico,4,"$280,000",Bogotá
+2024-10-03,Alejandra Moya,Monitor LG,2,"$850,000",Medellín
+2024-11-21,  Ramón Sepúlveda ,Laptop HP,1,"$1,450,000",Cali
+2024-12-27,Doris Castillo,Mouse Logitech,3,$45.000,Barranquilla
+,  Test Vacío ,Teclado Mecánico,,"$280,000",Bogotá
+2024-12-28,Cliente Sin Dato,,2,,Medellín
+2024-12-29,  Espacios Extra ,  Laptop Dell  ,1,"$1,200,000",  Cali  
+2024-12-30,Formato Fecha,Mouse Logitech,2,$45.000,Barranquilla
