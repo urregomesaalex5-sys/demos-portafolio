@@ -16,6 +16,12 @@ Aplicación móvil y web para registrar gastos, ver totales y gráficas por cate
 - **Tecnologías:** Flutter, Dart, fl_chart, intl
 - **Estado:** ✅ Funcionando
 
+### 3. App Dashboard con Flutter
+Panel con tarjetas de métricas y gráficas para visualizar datos de negocio.
+
+- **Tecnologías:** Flutter, Dart, fl_chart, intl
+- **Estado:** ✅ Funcionando
+
 ## Contacto
 
 Disponible en Workana para proyectos de automatización y desarrollo móvil.
